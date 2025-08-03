@@ -1,4 +1,4 @@
-# 🌀 Aethera-One: AI Therapist Web App
+# Aethera-One: AI Therapist Web App
 
 Aethera-One is a modern AI-powered mental wellness companion built using **Next.js 15**, **Tailwind CSS**, and **React 19**. It offers a sleek, responsive interface for AI-based therapeutic conversations — blending intelligent assistance with smooth UI/UX.
 
