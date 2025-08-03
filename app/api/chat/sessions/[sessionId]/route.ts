@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 
 const BACKEND_API_URL =
   process.env.BACKEND_API_URL ||
-  "https://aethera-one-backend.onrender.com";
+  "https://ai-therapist-agent-backend.onrender.com";
 
 export async function GET(
   req: NextRequest,
